@@ -160,13 +160,15 @@
       display: flex;
       justify-content: space-around;
       align-items: center;
+      background-color: $teritary-color;
+      border: $secondary-color dashed 2px;
       
     #input {
       height: 77px;
       width: 85%;
       font-size: 29px;
       background-color: $teritary-color;
-      border: $secondary-color dashed 2px;
+      
     }
     }
     #plus_button {
